@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Temporary files
+temp/
+__pycache__/
+*.pyc
+
+# Model Weights
+*.gguf
